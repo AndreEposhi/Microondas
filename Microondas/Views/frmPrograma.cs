@@ -35,17 +35,25 @@ namespace Microondas.Views
 
         private void ButtonSalvar_Click(object sender, EventArgs e)
         {
-            var programa = new Programa(
+            try
+            {
+                var programa = new Programa(
                 textBoxNome.Text,
-                Convert.ToInt32(textBoxTempo.Text),
-                Convert.ToInt32(textBoxPot.Text),
+                string.IsNullOrEmpty(textBoxTempo.Text) ? 0 : Convert.ToInt32(textBoxTempo.Text),
+                string.IsNullOrEmpty(textBoxPot.Text) ? 0 : Convert.ToInt32(textBoxPot.Text),
                 textBoxCarAquec.Text,
                 textBoxInstr.Text
                 );
 
-            _programaController.AdicionarPrograma(programa);
-            Programas = _programaController.PopularPrograma();
-            this.Close();
+                _programaController.ValidarPrograma(programa);
+                _programaController.AdicionarPrograma(programa);
+                Programas = _programaController.PopularPrograma();
+                this.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Alerta");
+            }
         }
 
         #endregion Métodos públicos
