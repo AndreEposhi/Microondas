@@ -1,0 +1,12 @@
+D:\MyProjects\Microondas\Microondas\bin\Debug\Microondas.exe.config
+D:\MyProjects\Microondas\Microondas\bin\Debug\Microondas.exe
+D:\MyProjects\Microondas\Microondas\bin\Debug\Microondas.pdb
+D:\MyProjects\Microondas\Microondas\obj\Debug\Microondas.csprojAssemblyReference.cache
+D:\MyProjects\Microondas\Microondas\obj\Debug\Microondas.Properties.Resources.resources
+D:\MyProjects\Microondas\Microondas\obj\Debug\Microondas.Views.frmMicroondas.resources
+D:\MyProjects\Microondas\Microondas\obj\Debug\Microondas.csproj.GenerateResource.cache
+D:\MyProjects\Microondas\Microondas\obj\Debug\Microondas.csproj.CoreCompileInputs.cache
+D:\MyProjects\Microondas\Microondas\obj\Debug\Microondas.exe
+D:\MyProjects\Microondas\Microondas\obj\Debug\Microondas.pdb
+D:\MyProjects\Microondas\Microondas\obj\Debug\Microondas.Views.frmPrograma.resources
+D:\MyProjects\Microondas\Microondas\obj\Debug\Microondas.Views.frmPesqPrograma.resources

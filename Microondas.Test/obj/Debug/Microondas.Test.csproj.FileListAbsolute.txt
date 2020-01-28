@@ -1,0 +1,17 @@
+D:\MyProjects\Microondas\Microondas.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\MyProjects\Microondas\Microondas.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\MyProjects\Microondas\Microondas.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\MyProjects\Microondas\Microondas.Test\bin\Debug\Microondas.Test.dll
+D:\MyProjects\Microondas\Microondas.Test\bin\Debug\Microondas.Test.pdb
+D:\MyProjects\Microondas\Microondas.Test\bin\Debug\Microondas.exe
+D:\MyProjects\Microondas\Microondas.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\MyProjects\Microondas\Microondas.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\MyProjects\Microondas\Microondas.Test\bin\Debug\Microondas.pdb
+D:\MyProjects\Microondas\Microondas.Test\bin\Debug\Microondas.exe.config
+D:\MyProjects\Microondas\Microondas.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\MyProjects\Microondas\Microondas.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\MyProjects\Microondas\Microondas.Test\obj\Debug\Microondas.Test.csprojAssemblyReference.cache
+D:\MyProjects\Microondas\Microondas.Test\obj\Debug\Microondas.Test.csproj.CoreCompileInputs.cache
+D:\MyProjects\Microondas\Microondas.Test\obj\Debug\Microondas.Test.csproj.CopyComplete
+D:\MyProjects\Microondas\Microondas.Test\obj\Debug\Microondas.Test.dll
+D:\MyProjects\Microondas\Microondas.Test\obj\Debug\Microondas.Test.pdb
